@@ -1,0 +1,4 @@
+                        O resumo da aula
+Aprendi sobre a história do git e do git hub, como funciona e
+pra que ele serve, estou entendo parcialmente sobre como ele fun-
+ciona e serve, mas estou achando a aula interessante.
